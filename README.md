@@ -31,7 +31,7 @@ Screenshots are provided with the repo
 ---
 
 ## 💰 Asking Price
-**$6,500 (or best offer)**  
+**$5,500 (or best offer)**  
 Listed on Microns.io.  
 
 ---
