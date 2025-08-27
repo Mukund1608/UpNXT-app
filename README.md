@@ -52,7 +52,7 @@ Built for the web (live), with mobile deployment (React Native + Expo) ready to 
 ---
 
 ## 💰 Asking Price
-**$6,500 (or best offer)**  
+**$5,500 (or best offer)**  
 Listed on Microns.io.  
 
 ---
