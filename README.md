@@ -18,10 +18,7 @@ GIT repo for microns listing
 ---
 
 ## 📸 Screenshots
-![Daily Quests](./screenshots/dailyquests.png)  
-![Exam Mode](./screenshots/exammode.png)  
-![Habit Tracker](./screenshots/habittracker.png)  
-![Focus Mode](./screenshots/focusmode.png)  
+Screenshots are provided with the repo
 
 ---
 
